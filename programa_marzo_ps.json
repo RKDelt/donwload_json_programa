@@ -1,0 +1,46 @@
+
+ {
+  "app": "PS_PROGRAM",
+  "version": 1,
+  "mes": "Abril 2026",
+  "congregacion": "Cong. Vicente Guerrero",
+  "dias":[
+        {
+      "dia":"Martes",
+      "nombre":"Jonatan diaz",
+      "familia":"Familia Castillo",
+      "territorio":"Territorios 10"
+    },
+    {
+      "dia":"Miercoles",
+      "nombre":"Maicol",
+      "familia":"Familia Cruz",
+      "territorio":"Territorios 11"
+    },
+      {
+      "dia":"Jueves",
+      "nombre":"Juan García",
+      "familia":"Familia Castillo",
+      "territorio":"Territorios 10"
+    },
+    {
+      "dia":"Viernes",
+      "nombre":"Miguel Díaz",
+      "familia":"Familia Cruz",
+      "territorio":"Territorios 11"
+    },
+      
+    {
+      "dia":"Sábado",
+      "nombre":"Juan García",
+      "familia":"Familia Castillo",
+      "territorio":"Territorios 10"
+    },
+    {
+      "dia":"Domingo",
+      "nombre":"Miguel Díaz",
+      "familia":"Familia Cruz",
+      "territorio":"Territorios 11"
+    }
+  ]
+}
