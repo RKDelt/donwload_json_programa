@@ -1,5 +1,4 @@
-
- {
+{
   "app": "PS_PROGRAM",
   "version": 1,
   "mes": "Abril 2026",
@@ -7,40 +6,41 @@
   "dias":[
         {
       "dia":"Martes",
-      "nombre":"Jonatan diaz",
-      "familia":"Familia Castillo",
-      "territorio":"Territorios 10"
+      "nombre":"Heyder Chi",
+      "familia":"Familia Muñoz",
+      "territorio":"Territorios 5-7,32"
     },
     {
       "dia":"Miercoles",
-      "nombre":"Maicol",
-      "familia":"Familia Cruz",
-      "territorio":"Territorios 11"
+      "nombre":"Sin Capitan",
+      "familia":"Familia Romero",
+      "territorio":"Territorios 12-14"
     },
       {
       "dia":"Jueves",
-      "nombre":"Juan García",
-      "familia":"Familia Castillo",
-      "territorio":"Territorios 10"
+      "nombre":"M: Jose Martínez, T: Ezequiel C",
+      "familia":"Mañ: Familia Romero. Tard: Familia Paz",
+      "territorio":"M: Territorios 24-26
+      T; 27-31"
     },
     {
       "dia":"Viernes",
-      "nombre":"Miguel Díaz",
-      "familia":"Familia Cruz",
-      "territorio":"Territorios 11"
+      "nombre":"Antoni Crespo",
+      "familia":"Familia Romero",
+      "territorio":"Territorios 27-31"
     },
       
     {
       "dia":"Sábado",
-      "nombre":"Juan García",
-      "familia":"Familia Castillo",
-      "territorio":"Territorios 10"
+      "nombre":"Adriel Gutiérrez | Mario Cruz",
+      "familia":"Familia Paz",
+      "territorio":"Territorios 15-17"
     },
     {
       "dia":"Domingo",
-      "nombre":"Miguel Díaz",
-      "familia":"Familia Cruz",
-      "territorio":"Territorios 11"
+      "nombre":"SUPERINTENDENTES Y AUX DE GRUP",
+      "familia":"Familia Paz",
+      "territorio":"Territorios 8-19,27,20-23,1-4"
     }
   ]
 }
