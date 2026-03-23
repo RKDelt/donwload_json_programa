@@ -6,18 +6,21 @@
   "dias":[
         {
       "dia":"Martes",
+      "hora":"Hrs: 8:45 am",
       "nombre":"Heyder Chi",
       "familia":"Familia Muñoz",
       "territorio":"Territorios 5-7,32"
     },
     {
       "dia":"Miercoles",
+       "hora":"Hrs: 8:45 am",
       "nombre":"Sin Capitan",
       "familia":"Familia Romero",
       "territorio":"Territorios 12-14"
     },
       {
       "dia":"Jueves",
+         "hora":"Hrs: 8:45 am",
       "nombre":"M: Jose Martínez, T: Ezequiel C",
       "familia":"Mañ: Familia Romero. Tard: Familia Paz",
       "territorio":"M: Territorios 24-26
@@ -25,6 +28,7 @@
     },
     {
       "dia":"Viernes",
+       "hora":"Hrs: 8:45 am",
       "nombre":"Antoni Crespo",
       "familia":"Familia Romero",
       "territorio":"Territorios 27-31"
@@ -32,12 +36,14 @@
       
     {
       "dia":"Sábado",
+       "hora":"Hrs: 8:45 am",
       "nombre":"Adriel Gutiérrez | Mario Cruz",
       "familia":"Familia Paz",
       "territorio":"Territorios 15-17"
     },
     {
       "dia":"Domingo",
+       "hora":"Hrs: 8:45 am",
       "nombre":"SUPERINTENDENTES Y AUX DE GRUP",
       "familia":"Familia Paz",
       "territorio":"Territorios 8-19,27,20-23,1-4"
